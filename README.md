@@ -60,3 +60,5 @@ menu.sh – Shows how to create a terminal menu interface.
 
 ✍️ Contribution
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. See CONTRIBUTING.md for more details.
+
+Thank you!
